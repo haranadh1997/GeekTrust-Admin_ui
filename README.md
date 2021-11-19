@@ -18,4 +18,4 @@ By typing npm install the dependencies will be installed
 
 After dependinces installed type npm start to run the server
 
-After that  type http://locolhost:3000 in your browser to view the output
+After that  type http://localhost:3000 in your browser to view the output
